@@ -1,0 +1,5 @@
+* To run this files, First create 2 databases in PhpMyAdmin named "clumsy" and "eclumsy", then create table named "tusers" and "eusers" respectively. 
+* Create a main Folder and save all the html, php files and image folder in it.
+* Store the create main folder in C/programFiles/xampp/htdocs path.
+* We can run the program by texting localhost/filename in any browser.
+* We can see the database by texting localhost in any browser and go to MyAdmin.
